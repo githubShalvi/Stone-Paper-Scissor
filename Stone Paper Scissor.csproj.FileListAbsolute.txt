@@ -1,0 +1,14 @@
+C:\Users\shalvi\source\repos\Stone Paper Scissor\Stone Paper Scissor\bin\Debug\Stone Paper Scissor.exe.config
+C:\Users\shalvi\source\repos\Stone Paper Scissor\Stone Paper Scissor\bin\Debug\Stone Paper Scissor.exe
+C:\Users\shalvi\source\repos\Stone Paper Scissor\Stone Paper Scissor\bin\Debug\Stone Paper Scissor.pdb
+C:\Users\shalvi\source\repos\Stone Paper Scissor\Stone Paper Scissor\obj\Debug\Stone Paper Scissor.csproj.AssemblyReference.cache
+C:\Users\shalvi\source\repos\Stone Paper Scissor\Stone Paper Scissor\obj\Debug\Stone Paper Scissor.csproj.CoreCompileInputs.cache
+C:\Users\shalvi\source\repos\Stone Paper Scissor\Stone Paper Scissor\obj\Debug\Stone Paper Scissor.exe
+C:\Users\shalvi\source\repos\Stone Paper Scissor\Stone Paper Scissor\obj\Debug\Stone Paper Scissor.pdb
+D:\projects\ready\Stone Paper Scissor c#\Stone Paper Scissor\bin\Debug\Stone Paper Scissor.exe.config
+D:\projects\ready\Stone Paper Scissor c#\Stone Paper Scissor\bin\Debug\Stone Paper Scissor.exe
+D:\projects\ready\Stone Paper Scissor c#\Stone Paper Scissor\bin\Debug\Stone Paper Scissor.pdb
+D:\projects\ready\Stone Paper Scissor c#\Stone Paper Scissor\obj\Debug\Stone Paper Scissor.csproj.AssemblyReference.cache
+D:\projects\ready\Stone Paper Scissor c#\Stone Paper Scissor\obj\Debug\Stone Paper Scissor.csproj.CoreCompileInputs.cache
+D:\projects\ready\Stone Paper Scissor c#\Stone Paper Scissor\obj\Debug\Stone Paper Scissor.exe
+D:\projects\ready\Stone Paper Scissor c#\Stone Paper Scissor\obj\Debug\Stone Paper Scissor.pdb
